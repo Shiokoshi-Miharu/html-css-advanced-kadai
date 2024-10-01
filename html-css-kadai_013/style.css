@@ -42,20 +42,20 @@ PC用のスタイル
     margin-left: 20px;
   }
 
-  #nav-pc > a:link {
+  #nav-pc a:link {
     color: #0d0d0d;
   }
 
-  #nav-pc > a:visited {
+  #nav-pc a:visited {
     color: #0d0d0d;
   }
 
-  #nav-pc > a:hover {
+  #nav-pc a:hover {
     color: #0d0d0d;
     text-decoration: underline;
   }
 
-  #nav-pc > a:active {
+  #nav-pc a:active {
     color: #0d0d0d;
   }
 
@@ -130,16 +130,16 @@ PC用のスタイル
     color: #ffffff;
   }
 
-  #nav-sp > a:visited {
+  #nav-sp a:visited {
     color: #ffffff;
   }
 
-  #nav-sp > a:hover {
+  #nav-sp a:hover {
     color: #ffffff;
     text-decoration: underline;
   }
 
-  #nav-sp > a:active {
+  #nav-sp a:active {
     color: #ffffff;
   }
 
